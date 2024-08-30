@@ -16,11 +16,7 @@ This project is a simple Telegram bot built using Python. The bot listens to use
 
 ### Installation
 
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/yourusername/telegram-bot.git
-   cd telegram-bot
+1. Clone the repository
    
 2. Install required dependencies:
    ```bash
@@ -30,7 +26,7 @@ This project is a simple Telegram bot built using Python. The bot listens to use
    ```bash
    TOKEN=your-telegram-bot-token
    
-4. Run Python file:
+4. Run Python file
 
 ## Contributing
 Contributions are welcome! Feel free to open an issue or submit a pull request.
